@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internet Checker</string>
+    <string name="androidID_text">Android ID:</string>
+    <string name="macAddress_text">MAC Address:</string>
+    <string name="internalIP_text">Internal IP:</string>
+    <string name="timeTaken_text">Time Taken:</string>
+</resources>
